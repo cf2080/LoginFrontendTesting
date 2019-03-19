@@ -1,0 +1,16 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "LoginTesting.js",
+  "scripts": {
+    "start": "node LoginTesting.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "hummus": "^1.0.90",
+    "puppeteer": "^1.7.0"
+  }
+}
